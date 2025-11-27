@@ -1,0 +1,6 @@
+@AdventOfCodeSolution_HostAddress = http://localhost:5134
+
+GET {{AdventOfCodeSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
